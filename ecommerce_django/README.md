@@ -1,0 +1,1 @@
+This is backend part of e-commerce application created using Django Rest Framework. This project provides functionalities like user authententication, adding products to cart,payment.Front end of this application is created using javascript Vue framework.
